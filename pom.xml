@@ -11,4 +11,5 @@
         <maven.compiler.target>17</maven.compiler.target>
         <exec.mainClass>com.mycompany.prueba.Prueba</exec.mainClass>
     </properties>
+    <name>Prueba_GITHUB</name>
 </project>

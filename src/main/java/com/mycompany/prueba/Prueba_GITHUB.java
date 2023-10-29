@@ -8,7 +8,7 @@ package com.mycompany.prueba;
  *
  * @author Federico
  */
-public class Prueba {
+public class Prueba_GITHUB {
 
     public static void main(String[] args) {
         System.out.println("Hello World!");
